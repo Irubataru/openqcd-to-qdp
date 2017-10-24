@@ -1,0 +1,6 @@
+*.o
+*.lime
+*.config
+bin/*
+.dep/*
+openqcd
